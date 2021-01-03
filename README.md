@@ -23,6 +23,7 @@ Slime is a chrome extension that allows you to stick any of your tabs on top! Th
 
 &nbsp;&nbsp;&nbsp; 📸 &nbsp; Video call apps like Messenger, Duo, and more \
 &nbsp;&nbsp;&nbsp; 📘 &nbsp; Documentation \
+&nbsp;&nbsp;&nbsp; 🎥 &nbsp; Movies or videos from Netflix, Plex, and more \
 &nbsp;&nbsp;&nbsp; ❗️ &nbsp; Reference issues as you work on them \
 &nbsp;&nbsp;&nbsp; 💪 &nbsp; Statistics while you watch your favourite game \
 &nbsp;&nbsp;&nbsp; 🖥 &nbsp; And other multi-tasking needs!
