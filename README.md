@@ -2,6 +2,8 @@
 
 Slime is a chrome extension that allows you to stick any of your tabs on top! That means no matter what you're doing, you'll always be able to see your sticked tab on top. No need to split-screen or constantly alt-tab c:
 
+[Add it to your browser here!](https://chrome.google.com/webstore/detail/slime/phkkmgjnnbhcimhmgjiicmijjohofocd)
+
 <br/>
 
 ![Demo image](demo.png)
@@ -32,13 +34,13 @@ Slime is a chrome extension that allows you to stick any of your tabs on top! Th
 
 ## Cool! How do I get started?
 
-I will be getting this extension to the chrome store soon™️! In the meantime, feel free to clone this repository, head over to `chrome://extensions`, enable developer options, and load the extension unpacked. 
+This extension is [now available on the Chrome Web Store](https://chrome.google.com/webstore/detail/slime/phkkmgjnnbhcimhmgjiicmijjohofocd), check it out!
 
 <br/>
 
 ## How do I use it?
 
-Once the extension is installed, you can stick any tab by clicking the extension's icon on your browser bar, or by using the hot-key. By default, the hot-key should be CMD/CTRL + SHIFT + P, but Chrome may change this to avoid interference with other hotkeys. If you want to check or change it, just head to `chrome://extensions/configureCommands`!
+Once the extension is installed, you can stick any tab by clicking the extension's icon on your browser bar, or by using the hot-key. By default, the hot-key should be CMD/CTRL + SHIFT + Y, but Chrome may change this to avoid interference with other hotkeys. If you want to check or change it, just head to `chrome://extensions/configureCommands`!
 
 <br/>
 
